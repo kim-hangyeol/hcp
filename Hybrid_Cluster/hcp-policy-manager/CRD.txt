@@ -1,0 +1,7 @@
+CRD로 Policy Manager 구현할 예정
+
+func policyCheck() {
+	fmt.Println("---Policy Manager start---")
+	fmt.Println("No Policy")
+	fmt.Println("---Policy Manager start---")
+}
